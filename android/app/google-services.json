@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929552845481",
+    "project_id": "otpv-7c076",
+    "storage_bucket": "otpv-7c076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929552845481:android:0cfcc28936a3181016f7b8",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929552845481-eaqhumkkbq5bs36un5mk11qe7id81skn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdvfnkALS54p5nFwLjguFDGTogLDXZD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929552845481-eaqhumkkbq5bs36un5mk11qe7id81skn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
